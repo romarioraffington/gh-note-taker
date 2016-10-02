@@ -4,3 +4,6 @@ public/bundle.map
 
 # Firebase credentials
 app/env/firebase.js
+
+# vscode 
+.vscode

@@ -1,0 +1,6 @@
+# Dev Dependencies
+node_modules
+public/bundle.map
+
+# Firebase credentials
+app/env/firebase.js
